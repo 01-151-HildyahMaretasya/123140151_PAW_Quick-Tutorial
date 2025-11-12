@@ -77,9 +77,12 @@ $VENV/bin/pserve development.ini --reload
 ### 11. Verifikasi di Browser
 
 Buka http://localhost:6543/howdy/jane/doe di browser. Klik tombol **Save** dan **Delete**, lalu perhatikan output di console window.
+<img width="1919" height="524" alt="Cuplikan layar 2025-11-12 235807" src="https://github.com/user-attachments/assets/4476b053-c8f7-4e52-837e-9a506b18e6da" />
+<img width="959" height="297" alt="image" src="https://github.com/user-attachments/assets/1fec3d28-8ffb-4b53-918e-a69be2d0ecf8" />
+<img width="959" height="245" alt="image" src="https://github.com/user-attachments/assets/815ef672-98c2-4b3f-bb5b-47bfc2c8c878" />
 
 
-## Analisis: Bagaimana Cara Kerjanya?
+## Analisis: Cara Kerja
 
 ### Logical Grouping
 
