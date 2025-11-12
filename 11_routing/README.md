@@ -129,10 +129,7 @@ $VENV/bin/pserve development.ini --reload
 - http://localhost:6543/howdy/alice/wonderland
 
 **Output di browser:**
-```
-Home View
-First: amy, Last: smith
-```
+<img width="959" height="269" alt="image" src="https://github.com/user-attachments/assets/78978de8-62e0-43ba-b9a0-f5df67a307fe" />
 
 ## Analisis
 
