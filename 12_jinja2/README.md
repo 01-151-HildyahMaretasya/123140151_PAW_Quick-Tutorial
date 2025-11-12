@@ -112,7 +112,7 @@ $VENV/bin/pserve development.ini --reload
 ### 9. Buka di Browser
 
 Akses http://localhost:6543/ untuk melihat hasilnya.
-
+<img width="959" height="244" alt="image" src="https://github.com/user-attachments/assets/67664b35-0719-4e15-8a46-d12e11da4fbc" />
 
 ## Analisis: Bagaimana Cara Kerjanya?
 
