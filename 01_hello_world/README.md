@@ -21,15 +21,15 @@ Pyramid istimewa karena dapat bertindak sebagai **single-file module microframew
 
 ## Langkah-langkah
 
-**1. Setup Directory**
-**2. Buat File `app.py`**
-**3. Jalankan Aplikasi**
+## 1. Setup Directory
+## 2. Buat File `app.py`
+## 3. Jalankan Aplikasi
 
 ```bash
 $VENV/bin/python app.py
 ```
 
-**4. Buka Browser**
+## 4. Buka Browser
 
 Akses: `http://localhost:6543/`
 
