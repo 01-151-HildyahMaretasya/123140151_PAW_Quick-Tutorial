@@ -88,13 +88,8 @@ Konfigurasi minimal untuk project dengan nama `tutorial` dan dependencies yang d
 
 Nama `tutorial` digunakan konsisten di setiap step untuk menghindari pengetikan ulang yang tidak perlu.
 
-### Development Mode (Editable Mode)
-
-Perintah `pip install -e .` menginstall project dalam mode editable:
-- Perubahan code langsung aktif tanpa perlu reinstall
-- Cocok untuk pengembangan
-- Flag `-e` = editable
-- `.` = direktori saat ini
+### Output
+<img width="1517" height="421" alt="Cuplikan layar 2025-11-12 162910" src="https://github.com/user-attachments/assets/50b4b788-27cb-47a5-bda3-5efa0627c8a6" />
 
 ## Perbandingan dengan Single-File
 
