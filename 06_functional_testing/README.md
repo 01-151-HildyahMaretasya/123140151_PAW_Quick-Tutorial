@@ -36,6 +36,7 @@ $VENV/bin/pytest tutorial/tests.py -q
 ```
 
 Output :
+<img width="691" height="254" alt="image" src="https://github.com/user-attachments/assets/1e9d7fad-9a86-474e-ac69-9e5b818d6cae" />
 
 
 ## ANALISIS 
