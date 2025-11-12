@@ -23,23 +23,23 @@ Pyramid memanfaatkan library **Setuptools** Python yang menetapkan konvensi untu
 
 ## Langkah-langkah
 
-**1. Copy Project Sebelumnya**
-**2. Update File `setup.py`**
-**3. Install/Reinstall Project**
-**4. Buat File Konfigurasi `.ini`**
-**5. Refactor Startup Code ke `__init__.py`**
-**6. Hapus File `app.py` yang Tidak Terpakai**
+###1. Copy Project Sebelumnya
+###2. Update File `setup.py`
+###3. Install/Reinstall Project
+###4. Buat File Konfigurasi `.ini`
+###5. Refactor Startup Code ke `__init__.py`
+###6. Hapus File `app.py` yang Tidak Terpakai
 
 ```bash
 rm tutorial/app.py
 ```
-**7. Jalankan Aplikasi**
+###7. Jalankan Aplikasi
 
 ```bash
 $VENV/bin/pserve development.ini --reload
 ```
 
-**8. Buka Browser**
+###8. Buka Browser
 
 Akses: `http://localhost:6543/`
 
