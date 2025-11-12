@@ -103,8 +103,7 @@ $VENV/bin/pserve development.ini --reload
 ### 7. Verifikasi di Browser
 
 Buka http://localhost:6543/howdy.json di browser dan akan muncul response JSON:
-
-
+<img width="959" height="277" alt="image" src="https://github.com/user-attachments/assets/276e1657-9c1f-42f9-a89c-6addfdeaf625" />
 
 ## Analisis: Bagaimana Cara Kerjanya?
 
