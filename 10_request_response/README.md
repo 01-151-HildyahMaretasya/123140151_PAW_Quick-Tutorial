@@ -136,6 +136,8 @@ $VENV/bin/pserve development.ini --reload
 - http://localhost:6543/plain?name=alice → Tampil: "URL ... with name: alice"
 
 **Output:**
+<img width="1919" height="414" alt="Cuplikan layar 2025-11-12 214931" src="https://github.com/user-attachments/assets/0afed634-9e29-43f9-8d38-0b14886342a8" />
+
 
 ## Analisis
 
