@@ -49,9 +49,11 @@ $VENV/bin/pytest tutorial/tests.py -q
 ```
 
 ### Output
+<img width="688" height="343" alt="image" src="https://github.com/user-attachments/assets/7f18ad7b-8ced-4eb7-a8b1-76d64c35319b" />
+<img width="685" height="359" alt="image" src="https://github.com/user-attachments/assets/d54253bd-191e-4a43-8bcb-a6cd1515965d" />
+<img width="685" height="193" alt="image" src="https://github.com/user-attachments/assets/47fd4a9d-e3b0-4e33-91fe-dba595a519cc" />
 
-
-## 📋 ANALISIS
+## ANALISIS
 
 Bagian ini menjelaskan bagaimana kode test bekerja dan konsep-konsep penting di baliknya.
 
@@ -234,7 +236,6 @@ class TutorialViewTests(unittest.TestCase):
         # Test ini independen dari test_one
         pass
 ```
-
 ---
 
 ## Keuntungan Unit Testing
