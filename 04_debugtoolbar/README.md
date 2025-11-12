@@ -34,11 +34,11 @@ Mengintegrasikan add-on ini juga mendemonstrasikan beberapa poin penting tentang
 ```bash
 $VENV/bin/pserve development.ini --reload
 ```
-
-### 6. Buka Browser
+**6. Buka Browser**
 
 Akses: `http://localhost:6543/`
 
+###Analisis
 Perhatikan toolbar yang muncul di sisi kanan browser.
 
 ### Pyramid Add-on
