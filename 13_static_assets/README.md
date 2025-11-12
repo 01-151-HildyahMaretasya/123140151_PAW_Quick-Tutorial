@@ -100,7 +100,7 @@ $VENV/bin/pserve development.ini --reload
 ### 8. Verifikasi di Browser
 
 Buka http://localhost:6543/ di browser dan perhatikan perubahan font yang menunjukkan CSS sudah berhasil dimuat.
-
+<img width="959" height="320" alt="image" src="https://github.com/user-attachments/assets/23c1e30a-562a-4c9b-9454-8bdd03454f5c" />
 
 ## Analisis
 
