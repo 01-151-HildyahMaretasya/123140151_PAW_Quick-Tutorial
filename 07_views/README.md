@@ -65,10 +65,6 @@ def hello(request):
 $VENV/bin/pytest tutorial/tests.py -q
 ```
 
-Output :
-```
-
-
 ### 5. Jalankan Aplikasi
 
 ```bash
@@ -80,6 +76,12 @@ Buka di browser:
 - http://localhost:6543/howdy (hello view)
 
 ---
+
+Output :
+<img width="959" height="323" alt="image" src="https://github.com/user-attachments/assets/2e9e5937-70c9-4ecf-8a1e-7279fb8482e5" />
+
+<img width="959" height="255" alt="image" src="https://github.com/user-attachments/assets/bf44567e-be80-47ce-aae2-81a0f578e313" />
+
 
 ## ANALISIS 
 
