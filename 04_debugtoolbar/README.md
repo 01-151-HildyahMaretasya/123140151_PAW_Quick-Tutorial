@@ -120,6 +120,9 @@ pyramid.includes =
 - Jika mengalami client-side weirdness yang tidak bisa dijelaskan
 - Production environment (jangan pernah aktif di production!)
 
+### Output
+<img width="959" height="319" alt="image" src="https://github.com/user-attachments/assets/47a240ec-c9e9-4652-bd55-00637110db58" />
+
 ## Extra Credit 
 
 ### 1. Mengapa pyramid_debugtoolbar ditambahkan di dev_requires, bukan di requires?
