@@ -1,4 +1,4 @@
-# Single-File Web Applications - Pyramid Quick Tutorial
+# Single-File Web Applications 
 
 ## Deskripsi
 
@@ -66,7 +66,7 @@ Mempublikasikan WSGI app menggunakan HTTP server (Waitress). `make_wsgi_app()` m
 **Application Configuration** adalah ide sentral dalam Pyramid - membangun aplikasi dari komponen yang loosely-coupled. Konsep ini akan sering digunakan dalam tutorial selanjutnya.
 
 ## Output :
-
+<img width="766" height="290" alt="image" src="https://github.com/user-attachments/assets/00f12357-8eb1-42e6-9605-770c57fc9a94" />
 
 ## Extra Credit
 
