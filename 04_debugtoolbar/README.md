@@ -25,16 +25,15 @@ Mengintegrasikan add-on ini juga mendemonstrasikan beberapa poin penting tentang
 
 ## Langkah-langkah
 
-**1. Copy Project Sebelumnya**
-**2. Update `setup.py` dengan Development Dependencies**
-**3. Install Project dengan Extra Dependencies**
-**4. Update File `development.ini`**
-**5. Jalankan Aplikasi**
+### 1. Copy Project Sebelumnya
+### 2. Update `setup.py` dengan Development Dependencies
+### 3. Install Project dengan Extra Dependencies
+### 4. Update File `development.ini`
 
 ```bash
 $VENV/bin/pserve development.ini --reload
 ```
-**6. Buka Browser**
+### 5. Buka Browser
 
 Akses: `http://localhost:6543/`
 
