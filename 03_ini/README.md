@@ -148,6 +148,9 @@ $VENV/bin/pserve development.ini --reload
 - Berlaku untuk: Python files, INI file, dll
 - Sangat berguna selama development
 
+## Output
+<img width="1715" height="526" alt="Cuplikan layar 2025-11-12 155806" src="https://github.com/user-attachments/assets/8c0f4792-8da1-4217-a59d-dfa67982644f" />
+
 ## Extra Credit 
 
 ### 1. Apakah bisa menghindari configuration dan .ini files dengan Python code saja?
