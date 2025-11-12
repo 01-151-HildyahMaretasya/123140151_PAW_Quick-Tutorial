@@ -83,8 +83,9 @@ Buka browser dan akses:
 - http://localhost:6543/
 - http://localhost:6543/howdy
 
-**Output yang diharapkan:**
-
+**Output :**
+<img width="959" height="287" alt="image" src="https://github.com/user-attachments/assets/e66d23a2-573d-4d34-99bb-d1c44c0c1426" />
+<img width="959" height="287" alt="image" src="https://github.com/user-attachments/assets/b3aa2c71-7686-4f8e-97f9-59b1cc20215d" />
 
 ## Analisis
 
