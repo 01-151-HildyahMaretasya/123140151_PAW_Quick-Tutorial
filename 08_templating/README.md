@@ -66,9 +66,10 @@ def test_home(self):
 
 Buka browser dan akses:
 - http://localhost:6543/
+<img width="959" height="302" alt="image" src="https://github.com/user-attachments/assets/55cd9395-8abc-49bb-a455-01c790d0a741" />
+
 - http://localhost:6543/howdy
-
-
+<img width="959" height="272" alt="image" src="https://github.com/user-attachments/assets/8f384b48-c051-4657-a014-f8aa8c5bc9c4" />
 
 ## Analisis
 
