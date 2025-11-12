@@ -32,24 +32,24 @@ Dalam tutorial ini, struktur project mengikuti pola berikut:
 
 ## Langkah-langkah
 
-1. **Buat Directory untuk Tutorial**
-2. **Buat File `setup.py`**
-3. **Install Project dalam Development Mode**
+### 1. Buat Directory untuk Tutorial
+### 2.Buat File `setup.py`
+### 3. Install Project dalam Development Mode
 
 ```bash
 $VENV/bin/pip install -e .
 mkdir tutorial
 ```
 
-**4. Buat File `__init__.py`**
-**5. Buat File Aplikasi**
-**6. Jalankan Aplikasi**
+### 4. Buat File `__init__.py`
+### 5. Buat File Aplikasi
+### 6. Jalankan Aplikasi
 
 ```bash
 $VENV/bin/python tutorial/app.py
 ```
 
-**7. Buka Browser**
+### 7. Buka Browser
 
 Akses: `http://localhost:6543/`
 
